@@ -3,15 +3,19 @@
 Тут Вам важны следущие файлы:
 
 app/Http/Controllers/Api/v1/NoteController.php
+
 app/Http/Controllers/Api/v1/NotelistController.php
 
 app/Http/Requests/NoteListStoreRequest.php
+
 app/Http/Requests/NoteStoreRequest.php
 
 app/Http/Resources/NoteListResource.php
+
 app/Http/Resources/NoteResource.php
 
 app/Model/Note.php
+
 app/Model/Noteslist.php
 
 app/Providers/RouteServicePovider.php
