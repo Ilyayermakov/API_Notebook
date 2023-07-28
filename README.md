@@ -17,6 +17,7 @@ app/Model/Noteslist.php
 app/Providers/RouteServicePovider.php
 
 database/migrations/2023_07_26_112135_create_notes_table.php
+
 database/migrations/2023_07_27_084800_create_noteslists_table.php
 
 routes/api.php
